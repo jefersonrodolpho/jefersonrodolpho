@@ -12,6 +12,8 @@ Software Engineering student, learning mobile technologies. I am looking to ente
 <div>
   <a href="https://github.com/jefersonrodolpho">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=jefersonrodolpho&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+</div>
+ <br>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrodolpho&layout=compact&langs_count=7&theme=react" />
 </div>
  <br>
@@ -21,8 +23,7 @@ Software Engineering student, learning mobile technologies. I am looking to ente
 </div>
  
 ![readme](https://github-readme-stats.vercel.app/api/pin/?username=jefersonrodolpho&repo=jefersonrodolpho&theme=react)
-</div>
- <br>
+
 ![](https://visitcount.itsvg.in/api?id=jefersonrodolpho&icon=2&color=0)
 
 
