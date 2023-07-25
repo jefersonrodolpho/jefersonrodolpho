@@ -9,13 +9,11 @@ Software Engineering student, learning mobile technologies. I am looking to ente
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639)
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=jefersonrodolpho&theme=react&hide_border=true)<br/>
-
-
 <div>
   <a href="https://github.com/jefersonrodolpho">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=jefersonrodolpho&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-   
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=jefersonrodolpho&theme=react&hide_border=true)<br/>
+
 ![](https://visitcount.itsvg.in/api?id=jefersonrodolpho&icon=2&color=0)
 
 
