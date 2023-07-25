@@ -10,14 +10,12 @@ Software Engineering student, learning mobile technologies. I am looking to ente
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jefersonrodolpho&theme=react&hide_border=true)<br/>
+
 <div>
   <a href="https://github.com/jefersonrodolpho">
-    
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=jefersonrodolpho&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrodolpho&layout=compact&langs_count=7&theme=react" />
-
-  <img align="center" width="128" height="160" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrodolpho&layout=compact&langs_count=7&theme=react"/>
+  <img align="center" width="128" height="160" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613"/>
   
 ![](https://visitcount.itsvg.in/api?id=jefersonrodolpho&icon=2&color=0)]
 
