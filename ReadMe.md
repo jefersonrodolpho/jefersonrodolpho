@@ -10,7 +10,7 @@ Software Engineering student, learning mobile technologies. I am looking to ente
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jefersonrodolpho&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonrodolpho&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=jefersonrodolpho&icon=2&color=0)](https://visitcount.itsvg.in)
 
