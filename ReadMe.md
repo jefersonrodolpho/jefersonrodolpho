@@ -10,7 +10,9 @@ Software Engineering student, learning mobile technologies. I am looking to ente
 # 📊 GitHub Stats:
 
 <div>
-  <a href="https://github.com/jefersonrodolpho">
+  <href="https://github.com/jefersonrodolpho">
+    </div>
+ <br>
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=jefersonrodolpho&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 </div>
  <br>
