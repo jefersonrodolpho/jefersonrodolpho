@@ -20,7 +20,7 @@ Software Engineering student, learning mobile technologies. I am looking to ente
     
 </div>
  
-![readme](https://github-readme-stats.vercel.app/api/pin/?username=jefersonrodolpho&repo=jefersonrodolpho&theme=react)](https://github.com/jefersonrodolpho/jefersonrodolpho)
+![readme](https://github-readme-stats.vercel.app/api/pin/?username=jefersonrodolpho&repo=jefersonrodolpho&theme=react)
 ![](https://visitcount.itsvg.in/api?id=jefersonrodolpho&icon=2&color=0)
 
 
