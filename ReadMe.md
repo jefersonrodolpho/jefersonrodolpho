@@ -11,7 +11,7 @@ Software Engineering student, learning mobile technologies. I am looking to ente
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jefersonrodolpho&theme=react&hide_border=true)<br/>
 
-![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jefersonrodolpho/jefersonrodolpho/blob/output/github-contribution-grid-snake.svg)
 
 <div>
   <a href="https://github.com/jefersonrodolpho">
