@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Software Engineering student.<br>👯 I’m looking to enter my first profession as a Developer, currently I work with IT Technical Support at levels 1 and 2.<br>🌱 I’m currently learning mobile technologies<br>
+🔭 Software Engineering student.<br>👯 I seek to expand my knowledge in the technological area, currently I work with IT Technical Support at levels 1 and 2.<br>🌱 I’m currently learning mobile technologies<br>
 
 
 ## 🌐 Socials:
