@@ -21,9 +21,8 @@
 ###
 
 <p align="left">- 👋 Hi, I'm Jeferson 
-###
-- 📚 Undergraduate in Systems Analysis and Development.
-###
+</p>
+- 📚 Undergraduate in Systems Analysis and Development.</p>
 - 👯 I'm looking to expand my knowledge in the technology field. I currently work as an Infrastructure Analyst | IT Workplace Analyst | Stefanini | Volkswagen do Brasil. - 🔭 I'll use this channel to publish exercises and classes from my undergraduate degree, as well as some projects and solutions I'm developing and applying in my work environment. I hope you enjoy the content. I want to make it clear that all knowledge acquired is based on the authorship of its authors. Credit goes to them, each in their respective fields. I'm grateful to the masters and doctoral students who share their knowledge through university education.</p>
 
 ###
