@@ -20,7 +20,10 @@
 
 ###
 
-<p align="left">- 👋 Hi I'm Jeferson <br>- 📚 I'm a  Software Engineering Student.<br>- 👯 I'm looking to expand my knowledge in the technological area, I currently work with IT Support II | Stefanini | VW do Brasil<br>- 🔭 I will use this channel to publish exercises and classes from the University of Software Engineering where I am currently studying, I hope you enjoy the content, and I make it clear that all knowledge acquired is based on the authorship of its authors, the credit goes to them, each in their respective area of teaching, thanks to the masters and doctors who share their knowledge through university teaching.</p>
+<p align="left">- - 👋 Hi, I'm Jeferson
+- 📚 Undergraduate in Systems Analysis and Development.
+- 👯 I'm looking to expand my knowledge in the technology field. I currently work as an Infrastructure Analyst | IT Workplace Analyst | Stefanini | Volkswagen do Brasil.
+- 🔭 I'll use this channel to publish exercises and classes from my undergraduate degree, as well as some projects and solutions I'm developing and applying in my work environment. I hope you enjoy the content. I want to make it clear that all knowledge acquired is based on the authorship of its authors. Credit goes to them, each in their respective fields. I'm grateful to the masters and doctoral students who share their knowledge through university education..</p>
 
 ###
 
